@@ -1,7 +1,6 @@
 # AI-Powered Translation Assistant with Ollama
 
-This script functions as a background translator, listening for hotkeys and using a Large Language Model (LLM) to translate selected text. Inspired by the AI_typing_assistant project by patrickloeber
-More detail can be found at: https://github.com/patrickloeber/ai-typing-assistant
+This script functions as a background translator, listening for hotkeys and using a Large Language Model (LLM) to translate selected text. Inspired by the AI_typing_assistant project by patrickloeber (https://github.com/patrickloeber/ai-typing-assistant)
 
 
 ## Quick Start
