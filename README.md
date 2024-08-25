@@ -30,8 +30,17 @@ conda activate myenv
 
 Running the script
 ```bash
-python translate_tool.py --target_language <Spanish> --model_name <wizardlm2:latest>
+python translate_tool.py --target_language <full name of a language> 
 
 ```
+
+Language can be specified under the option: `--target_language` (Default: French)
+
+Model can be specified under the option: `--model_name` (Default: wizardlm2:latest)
+
+Whether to keep under the original under the option: `--keep_original` (Default: False)
+
+
+
 
 Keep it running in the background and use F9 on lines and use F10 on selected texts
