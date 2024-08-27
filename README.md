@@ -17,6 +17,7 @@ Run `ollama run mistral:7b-instruct-v0.2-q4_K_S`
 The Mistal 7B Instruct model is well-suited for this task, but feel free to experiment with others!
 
 ### 2. Install Required Libraries 
+python version 3.8.19
 
 ```bash
 pip install pynput pyperclip httpx
@@ -42,5 +43,7 @@ Whether to keep under the original under the option: `--keep_original` (Default:
 
 
 
+Keep the terminal running in the background and use F9 on lines and use F10 on selected texts
 
-Keep it running in the background and use F9 on lines and use F10 on selected texts
+
+The tool is currently optimised for Mac.
